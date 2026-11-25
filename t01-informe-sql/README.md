@@ -25,4 +25,6 @@ En Windows (PowerShell): `$env:SQL_CLAVE='<tu_clave>'; python informe.py`
 | `02_usuario_lectura.sql` | Usuario de solo lectura (`sqlcmd ... -v CLAVE_INFORMES='...'`) |
 
 ## ¿Lo quieres listo para empresa?
-**Pack Pro**: informes configurables sin tocar código, SQL Server y PostgreSQL, avisos en Teams, stock bajo y facturas vencidas, instaladores para Windows y Linux, y guía paso a paso. Enlace en la descripción del vídeo, junto con el contacto para instalaciones a medida.
+**Pack Pro**: informes configurables sin tocar código, SQL Server y PostgreSQL, avisos en Teams, stock bajo y facturas vencidas, instaladores para Windows y Linux, y guía paso a paso. Enlace en la descripción del vídeo.
+
+¿Prefieres que te lo monte en tu empresa? Escríbeme: adrian@povedaops.com
