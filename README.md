@@ -4,8 +4,8 @@ Código gratuito de los vídeos del canal: automatización de oficina y sistemas
 
 | Vídeo | Carpeta |
 |---|---|
-| T01 · Automatiza tus informes de SQL Server con IA | [`t01-informe-sql`](t01-informe-sql) |
+| [T01 · Automatiza tus informes de SQL Server con IA](https://youtu.be/IHYk4YsOtjo) | [`t01-informe-sql`](t01-informe-sql) |
 
-📦 Versión para empresa (Pack Pro): enlace en la descripción de cada vídeo · ✉️ Proyectos a medida: adrian@povedaops.com
+📺 Canal: [youtube.com/@PovedaOps](https://www.youtube.com/@PovedaOps) · 📦 Versión para empresa (Pack Pro): enlace en la descripción de cada vídeo · ✉️ Proyectos a medida: adrian@povedaops.com
 
 El código se publica con licencia MIT: úsalo y adáptalo libremente, también en tu empresa.

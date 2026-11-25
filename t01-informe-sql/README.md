@@ -1,6 +1,6 @@
 # T01 · Informe semanal de SQL Server por correo
 
-Código del vídeo **"Automatiza tus informes de SQL Server con IA"**. Probado con SQL Server 2022 y Python 3.13. Datos de ejemplo ficticios.
+Código del vídeo [**"Automatiza tus informes de SQL Server con IA"**](https://youtu.be/IHYk4YsOtjo). Probado con SQL Server 2022 y Python 3.13. Datos de ejemplo ficticios.
 
 ## Qué hace
 Cada vez que lo ejecutas: consulta las ventas de los últimos 7 días frente a los 7 anteriores, escribe conclusiones automáticas, dibuja un gráfico, adjunta un Excel y lo envía por correo. Opciones: un informe por tienda (`--por-tienda`) y modo alerta (`--alerta 10`).
