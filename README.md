@@ -1,4 +1,4 @@
-# Automatiza con IA · código de los vídeos
+# PovedaOps · código de los vídeos
 
 Código gratuito de los vídeos del canal: automatización de oficina y sistemas con IA, con casos reales y probados.
 
